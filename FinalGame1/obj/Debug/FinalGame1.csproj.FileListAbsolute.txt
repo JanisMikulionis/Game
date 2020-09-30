@@ -1,0 +1,14 @@
+C:\Users\janis.mikulionis\source\repos\FinalGame1\FinalGame1\bin\Debug\FinalGame1.exe.config
+C:\Users\janis.mikulionis\source\repos\FinalGame1\FinalGame1\bin\Debug\FinalGame1.exe
+C:\Users\janis.mikulionis\source\repos\FinalGame1\FinalGame1\bin\Debug\FinalGame1.pdb
+C:\Users\janis.mikulionis\source\repos\FinalGame1\FinalGame1\obj\Debug\FinalGame1.csprojAssemblyReference.cache
+C:\Users\janis.mikulionis\source\repos\FinalGame1\FinalGame1\obj\Debug\FinalGame1.Form1.resources
+C:\Users\janis.mikulionis\source\repos\FinalGame1\FinalGame1\obj\Debug\FinalGame1.Properties.Resources.resources
+C:\Users\janis.mikulionis\source\repos\FinalGame1\FinalGame1\obj\Debug\FinalGame1.csproj.GenerateResource.cache
+C:\Users\janis.mikulionis\source\repos\FinalGame1\FinalGame1\obj\Debug\FinalGame1.csproj.CoreCompileInputs.cache
+C:\Users\janis.mikulionis\source\repos\FinalGame1\FinalGame1\obj\Debug\FinalGame1.exe
+C:\Users\janis.mikulionis\source\repos\FinalGame1\FinalGame1\obj\Debug\FinalGame1.pdb
+C:\Users\janis.mikulionis\source\repos\FinalGame1\FinalGame1\obj\Debug\FinalGame1.Form2.resources
+C:\Users\janis.mikulionis\source\repos\FinalGame1\FinalGame1\obj\Debug\FinalGame1.Form3.resources
+C:\Users\janis.mikulionis\source\repos\FinalGame1\FinalGame1\obj\Debug\FinalGame1.Form4.resources
+C:\Users\janis.mikulionis\source\repos\FinalGame1\FinalGame1\obj\Debug\FinalGame1.ScoresDisplayer.resources

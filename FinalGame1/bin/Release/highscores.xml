@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<ArrayOfHighScore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="HighScores.Scores">
+  <HighScore>
+    <ScoreList />
+    <Score>1381</Score>
+    <Initials>Jonos</Initials>
+  </HighScore>
+  <HighScore>
+    <ScoreList />
+    <Score>613</Score>
+    <Initials>Jonos</Initials>
+  </HighScore>
+  <HighScore>
+    <ScoreList />
+    <Score>2861</Score>
+    <Initials />
+  </HighScore>
+  <HighScore>
+    <ScoreList />
+    <Score>19</Score>
+    <Initials />
+  </HighScore>
+  <HighScore>
+    <ScoreList />
+    <Score>70</Score>
+    <Initials>Dzo</Initials>
+  </HighScore>
+  <HighScore>
+    <ScoreList />
+    <Score>2411</Score>
+    <Initials>Janis</Initials>
+  </HighScore>
+  <HighScore>
+    <ScoreList />
+    <Score>15</Score>
+    <Initials>elli</Initials>
+  </HighScore>
+  <HighScore>
+    <ScoreList />
+    <Score>15</Score>
+    <Initials>elli1</Initials>
+  </HighScore>
+  <HighScore>
+    <ScoreList />
+    <Score>19</Score>
+    <Initials>e</Initials>
+  </HighScore>
+  <HighScore>
+    <ScoreList />
+    <Score>19</Score>
+    <Initials>keyup</Initials>
+  </HighScore>
+  <HighScore>
+    <ScoreList />
+    <Score>741</Score>
+    <Initials>Jonos</Initials>
+  </HighScore>
+  <HighScore>
+    <ScoreList />
+    <Score>242</Score>
+    <Initials>Sinaj</Initials>
+  </HighScore>
+  <HighScore>
+    <ScoreList />
+    <Score>3409</Score>
+    <Initials>JANIS</Initials>
+  </HighScore>
+  <HighScore>
+    <ScoreList />
+    <Score>1250</Score>
+    <Initials>Test1</Initials>
+  </HighScore>
+  <HighScore>
+    <ScoreList />
+    <Score>887</Score>
+    <Initials>Bit</Initials>
+  </HighScore>
+</ArrayOfHighScore>

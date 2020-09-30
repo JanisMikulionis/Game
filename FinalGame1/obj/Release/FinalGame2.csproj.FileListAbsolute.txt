@@ -1,0 +1,16 @@
+C:\Users\janis.mikulionis\source\repos\FinalGame1\FinalGame1\bin\Release\FinalGame1.exe.config
+C:\Users\janis.mikulionis\source\repos\FinalGame1\FinalGame1\bin\Release\FinalGame1.exe.manifest
+C:\Users\janis.mikulionis\source\repos\FinalGame1\FinalGame1\bin\Release\FinalGame1.application
+C:\Users\janis.mikulionis\source\repos\FinalGame1\FinalGame1\bin\Release\FinalGame1.exe
+C:\Users\janis.mikulionis\source\repos\FinalGame1\FinalGame1\bin\Release\FinalGame1.pdb
+C:\Users\janis.mikulionis\source\repos\FinalGame1\FinalGame1\obj\Release\FinalGame2.Form1.resources
+C:\Users\janis.mikulionis\source\repos\FinalGame1\FinalGame1\obj\Release\FinalGame2.Form2.resources
+C:\Users\janis.mikulionis\source\repos\FinalGame1\FinalGame1\obj\Release\FinalGame2.Form3.resources
+C:\Users\janis.mikulionis\source\repos\FinalGame1\FinalGame1\obj\Release\FinalGame1.Properties.Resources.resources
+C:\Users\janis.mikulionis\source\repos\FinalGame1\FinalGame1\obj\Release\FinalGame2.HIGHSCORES.resources
+C:\Users\janis.mikulionis\source\repos\FinalGame1\FinalGame1\obj\Release\FinalGame2.csproj.GenerateResource.cache
+C:\Users\janis.mikulionis\source\repos\FinalGame1\FinalGame1\obj\Release\FinalGame2.csproj.CoreCompileInputs.cache
+C:\Users\janis.mikulionis\source\repos\FinalGame1\FinalGame1\obj\Release\FinalGame1.exe.manifest
+C:\Users\janis.mikulionis\source\repos\FinalGame1\FinalGame1\obj\Release\FinalGame1.application
+C:\Users\janis.mikulionis\source\repos\FinalGame1\FinalGame1\obj\Release\FinalGame1.exe
+C:\Users\janis.mikulionis\source\repos\FinalGame1\FinalGame1\obj\Release\FinalGame1.pdb
